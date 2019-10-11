@@ -1,2 +1,2 @@
 // Your code here
-function createEmployeeRecord()
+function createEmployeeRecord([string, string, string, num])
